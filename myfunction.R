@@ -6,3 +6,7 @@ myfunction <- function() {
 second <- function(x) {
    x + rnorm(length(x))
 }
+
+med <- function(x) {
+   x + rnorm(length(x/2))
+}
