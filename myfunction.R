@@ -10,5 +10,5 @@ y<-1:20
 z<-seq(1,30)
 
 telegram <- function(...){
-  paste("Hallo!", ...,"Good bye!"  ,sep = " ", collapse = NULL ) #main
+  paste("Hi!", ...,"Bye!"  ,sep = " ", collapse = NULL ) #addfeach1
 }
